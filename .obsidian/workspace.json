@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9e29ac09bd69cd1d",
+        "id": "98f14e8850f7bb0c",
         "type": "tabs",
         "children": [
           {
-            "id": "4a98cf20ce59f4b0",
+            "id": "d75102b837fe14c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java学习.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "java学习"
+              "title": "新标签页"
             }
           }
         ]
@@ -182,15 +178,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65219b83367f4885",
+  "active": "d75102b837fe14c0",
   "lastOpenFiles": [
+    "java学习.md",
     "新建 文本文档.txt",
     "未命名.base",
     "2025-11-07.md",
     "未命名.canvas",
     "小工具.md",
     "数据结构与算法.md",
-    "java学习.md",
     "python-- MIT6.100L.md",
     "PyTorch深度学习快速入门教程.md",
     "Pasted image 20251104194427.png",
@@ -211,7 +207,6 @@
     "QQ2025114-101133.mp4",
     "QQ2025112-17622.mp4",
     "QQ2025112-15239.mp4",
-    "QQ2025112-141824.mp4",
     "python/未命名.md",
     "📅 大一学习任务表（AI方向）.md",
     "obsidian使用教程.md",

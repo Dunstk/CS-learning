@@ -25,10 +25,14 @@
             "id": "ad80d4288ffa1ef2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "力扣算法记录.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "力扣算法记录"
             }
           }
         ],
@@ -196,6 +200,7 @@
   },
   "active": "ad80d4288ffa1ef2",
   "lastOpenFiles": [
+    "力扣算法记录.md",
     "小工具.md",
     "Pasted image 20251111200059.png",
     "Pasted image 20251111200018.png",

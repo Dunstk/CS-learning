@@ -35,8 +35,7 @@
               "title": "力扣算法记录"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad80d4288ffa1ef2",
+  "active": "d75102b837fe14c0",
   "lastOpenFiles": [
     "力扣算法记录.md",
     "小工具.md",

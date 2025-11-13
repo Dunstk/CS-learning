@@ -291,4 +291,5 @@ Java 基础
 ## 1.1cmd
 ### 1.1.1常见cmd命令
 ![[Pasted image 20251113131157.png]]
-
+## 1.2环境配置
+![[Pasted image 20251113133423.png]]

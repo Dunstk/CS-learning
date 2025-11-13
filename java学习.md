@@ -287,9 +287,11 @@ Java 基础
 
 **总计：20 小时 → 就能直接进 MyBatis-Plus 阶段。**
 
-# 1 Java基础
+# 1 Java开篇
 ## 1.1cmd
 ### 1.1.1常见cmd命令
 ![[Pasted image 20251113131157.png]]
 ## 1.2环境配置
 ![[Pasted image 20251113133423.png]]
+
+# Java基础

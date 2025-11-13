@@ -298,7 +298,9 @@ Java 基础
 ## 2.1变量
 ### 2.1.1变量的注意事项
 ![[Pasted image 20251113163316.png]]
+### 2.1.2进制
+![[Pasted image 20251113164838.png]]
 
-
-
+![[Pasted image 20251113165417.png]]
+![[Pasted image 20251113165557.png]]
 

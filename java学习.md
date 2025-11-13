@@ -345,5 +345,20 @@ Java 基础
 ![[Pasted image 20251113182303.png]]
 #### 1、类型转换
 ![[Pasted image 20251113182719.png]]
+①隐式转换
 ![[Pasted image 20251113182806.png]]
 ![[Pasted image 20251113182844.png]]
+②强制转换
+![[Pasted image 20251113183147.png]]
+![[Pasted image 20251113183259.png]]
+>[!attention]
+>byte类型会先转换为int，所以为byte result赋值时，要进行强制转换
+
+#### 2、字符串+操作
+![[Pasted image 20251113183442.png]]
+**只要出现字符串就会开始拼接，不管后面的数据类型，如果后面有其他+号，一律视为字符串拼接**
+![[Pasted image 20251113183541.png]]
+![[Pasted image 20251113183835.png]]
+
+#### 3、字符+操作
+

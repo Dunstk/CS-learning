@@ -396,3 +396,15 @@ Java 基础
 ![[Pasted image 20251115134822.png]]
 
 ## 2.4循环和判断
+### 2.4.1if语句
+### 2.4.2switch语句
+![[Pasted image 20251115143300.png]]
+![[Pasted image 20251115143430.png]]
+>[!attention]
+>break：
+>遇到break就退出整个switch语句
+>default：
+>①可以省略，语法不会有问题（但如果条件与所有case都不匹配，就没有代码可以执行）
+>②不一定要写在最下面（但不论在哪里，永远都是最后一个执行）
+
+
